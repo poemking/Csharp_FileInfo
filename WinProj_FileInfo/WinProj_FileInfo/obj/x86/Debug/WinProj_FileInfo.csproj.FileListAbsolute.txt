@@ -1,0 +1,7 @@
+D:\Ptactice\WinProj_FileInfo\WinProj_FileInfo\bin\Debug\WinProj_FileInfo.exe
+D:\Ptactice\WinProj_FileInfo\WinProj_FileInfo\bin\Debug\WinProj_FileInfo.pdb
+D:\Ptactice\WinProj_FileInfo\WinProj_FileInfo\obj\x86\Debug\WinProj_FileInfo.Form1.resources
+D:\Ptactice\WinProj_FileInfo\WinProj_FileInfo\obj\x86\Debug\WinProj_FileInfo.Properties.Resources.resources
+D:\Ptactice\WinProj_FileInfo\WinProj_FileInfo\obj\x86\Debug\WinProj_FileInfo.csproj.GenerateResource.Cache
+D:\Ptactice\WinProj_FileInfo\WinProj_FileInfo\obj\x86\Debug\WinProj_FileInfo.exe
+D:\Ptactice\WinProj_FileInfo\WinProj_FileInfo\obj\x86\Debug\WinProj_FileInfo.pdb
